@@ -4,14 +4,22 @@ An idea of what is required to make the project actually happen
 -->
 
 ## People
-<!--
-Who needs to be involved, what's the proposed structure, what will it take to get their involvement?
--->
+
+Proposers (Horst and Brun) are the primary authors of the `lterdatasampler` R package, and are currently the sole developers. 
+
+Non-financial support is provided by the LTER Network Office, LTER Education Committee, LTER researchers and site Information Managers. 
 
 ## Processes
 <!-- 
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
+
+We have established a system for communicating with LTER Information Managers, leadership, and researchers to gather feedback on package datasets and vignettes. 
+
+Still needed are: 
+
+- A more thorough "How to contribute" guide, so that we can incorporate (or link to) external contributor's examples as the data samples get used in different and interesting ways
+- Feedback from the R community (particularly educators and learners who are using the `lterdatasampler` package), which we intend to gather through an informal survey (likely a Google form)
 
 ## Tools & Tech
 <!--
@@ -22,13 +30,30 @@ Will cloud computing be used - if yes are there are necessary components that wi
 Are there tools or tech that don't exist that will be produced to facilitate the project?
 -->
 
+We will continue to build out `lterdatasampler` using the same tools and reproducible workflow that we have established in the [existing version](https://github.com/lter/lterdatasampler) of the package.
+
+No additional tools or tech are expected. 
+
 ## Funding
 <!-- 
 [TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZE
 
+
+
 -->
+
+Total funding requested: \$XXXXX
+
+Budget: 
+
+- \$XXXX: Allocated to Horst, as compensation for time spent expanding the `lterdatasampler` R package
+- \$XXXX: Allocated to Brun, as compensation for time spent expanding the `lterdatasampler` R package
+
+We justify the requested amount based on an approximate total time spent on each datasample of 12 hours (includes finding, curating, adding to package, documenting, creating a vignette, reaching out to and getting feedback from LTER scientists, etc.). The current package contains data samples from 8 (of 28) LTER sites. With 20 additional data samples needed to complete `lterdatasampler`, we estimate a total of 240 hours required to complete the package. 
 
 ## Summary
 <!--
 A summary of the requirements that contextualises the costs
 -->
+
+We request the funding above (\$XXXXX total) to directly support developers Horst (\$XXXX) and Brun (\$XXXX) as salary for their time and effort spent expanding the `lterdatasampler` package for R educators and learners. 
