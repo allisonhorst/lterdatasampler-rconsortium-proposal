@@ -8,6 +8,10 @@ Projects should have a definition of done that is measurable, and a thorough und
 What does success look like? 
 -->
 
+The `lterdatasampler` is available on CRAN with 28 data samples and teaching examples. Along the development process, data science instructors have started to integrate data samples in their curriculum and workshops **NEED TO QUANTIFY THIS MORE**
+
+There is a documentation online of the process to contribute to the package to enrich the available portfolio of examples and tutorials using the package.
+
 ## Measuring success
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
@@ -17,6 +21,8 @@ How will we know when success is achieved, what markers can we use along the way
 <!-- 
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
+
+
 
 ## Key risks
 <!-- 
@@ -28,3 +34,9 @@ What sort of things could come up that can delay or break the project?
  - [ ] Costs
 
 -->
+
+We can not provide all the 20 datasets within the timeline
+
+The package becomes to large for a CRAN submission. One option could be to split the package in several ones.
+
+
