@@ -10,6 +10,7 @@ Covering the planning phase, this section should provide a relatively detailed p
  - [ ] Reporting framework
 -->
 
+As we have already released the 8-data sample "teaser" of the `lterdatasampler` package, we feel that we have completed the "Start-up phase" and seek support to add the additional 20 data samples to complete the R package.  
 
 ## Technical delivery
 <!--
@@ -17,6 +18,8 @@ Covering the actual delivery of the project this section should provide at least
 
 Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
 -->
+
+We aim to complete the package by **June 2023**, at which point we expect to submit `lterdatasampler` to CRAN. 
 
 ## Other aspects
 <!--
@@ -28,3 +31,5 @@ Covering non-technical activities like on-going publicity, paper preparation, di
  - [ ] UseR!
  - [ ] ISC meetings
 -->
+
+We have been actively working to publicize our initial release of the `lterdatasampler` package including through Twitter (see our [announcement thread](https://twitter.com/allison_horst/status/1513546784005521412)), a [blog post](https://lternet.edu/stories/ready-to-teach-r-environmental-datasets-the-lterdatasampler-r-package/), and several conference talks (e.g. at useR!2021, and ESA 2021). We plan to continue our media efforts to spread awareness and foster engagement with this new package. 

@@ -8,20 +8,30 @@ Projects should have a definition of done that is measurable, and a thorough und
 What does success look like? 
 -->
 
-The `lterdatasampler` is available on CRAN with 28 data samples and teaching examples. Along the development process, data science instructors have started to integrate data samples in their curriculum and workshops **NEED TO QUANTIFY THIS MORE**
+We envision a successful `lterdatasampler` R package as follows: 
 
-There is a documentation online of the process to contribute to the package to enrich the available portfolio of examples and tutorials using the package.
+- The `lterdatasampler` package is available on CRAN, with 28 data samples and teaching examples
+- The `lterdatasampler` package data samples are adopted and used by instructors in data science education (classes, workshops, tutorials, etc.)
+- Documentation online supports others to contribute to the package, which grows an enriching portfolio of examples and tutorials using the data samples that others can follow for teaching and learning inspiration
 
 ## Measuring success
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
 -->
 
+We plan to use the following to track success: 
+
+- CRAN downloads as an indicator for package use
+- Google analytics to track package website visitation
+- Twitter engagement and tags
+- A Google form, added to the `lterdatasampler` home page, requesting that educators and users provide feedback and recommendations, and share how they have used the package including links to any resources created using the data samples (e.g. tutorials, repos, data visualizations, course lessons, etc.) 
+
 ## Future work
 <!-- 
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
 
+We are excited to build out a "Community Portfolio" of examples and open educational resources that use the `lterdatasampler` package datasets. 
 
 
 ## Key risks
@@ -35,8 +45,16 @@ What sort of things could come up that can delay or break the project?
 
 -->
 
-We can not provide all the 20 datasets within the timeline
+The key risks of this project include: 
 
-The package becomes to large for a CRAN submission. One option could be to split the package in several ones.
+- We are unable to complete the additional 20 data samples within the timeline
 
+- The package size exceeds limits for CRAN submission. We are carefully choosing and crafting data samples in an effort to keep `lterdatasampler` in a single package. If we are unable to provide the enriching content we want in a single package, one option is to split the package into two parts, each with 14 data samples.
 
+# Citations
+
+Free CM, Vargas Poulsen C, Bellquist LF, Wassermann SN, Oken KL (2022) The CALFISH database: a century of California’s non-confidential fisheries landings and participation data. Ecological Informatics 69: 101599. https://doi.org/10.1016/j.ecoinf.2022.101599
+
+Horst, AM, A Presmanes Hill, KB Gorman. Palmer Archipelago penguins data in the palmerpenguins R package: an alternative to Anderson's Irises (In Press). The R Journal. Preview: https://allisonhorst.github.io/penguins_paper_distill/rjarticle/penguins.html
+
+Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218.

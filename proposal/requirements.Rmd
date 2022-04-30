@@ -5,9 +5,7 @@ An idea of what is required to make the project actually happen
 
 ## People
 
-Proposers (Horst and Brun) are the primary authors of the `lterdatasampler` R package, and are currently the sole developers. 
-
-Non-financial support is provided by the LTER Network Office, LTER Education Committee, LTER researchers and site Information Managers. 
+Proposers (Horst and Brun) are the primary authors of the `lterdatasampler` R package, and are currently the sole developers. Non-financial support is provided by the LTER Network Office, LTER Education Committee, LTER researchers and site Information Managers. 
 
 ## Processes
 <!-- 
