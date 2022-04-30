@@ -25,6 +25,25 @@ Depending on project type the detail section should include:
 
 The outcome of this product will be the expanded [`lterdatasampler`](https://lter.github.io/lterdatasampler/) R package, which we plan to increase from the current 8 data samples to a total 28 data samples (one from each of the 28 LTER Network sites). 
 
-The package follows standard R package infrastructure (see the project repo: https://github.com/lter/lterdatasampler) and contents are fully reproducible from raw data (hosted at the Environmental Data Initiative) through to curated samples using the [`metajam`](https://github.com/NCEAS/metajam) package. 
+The package follows standard R package infrastructure (see the project repo: https://github.com/lter/lterdatasampler) and contents are fully reproducible from raw data (hosted at the Environmental Data Initiative, [EDI](https://environmentaldatainitiative.org/)) through to curated samples using the [`metajam`](https://github.com/NCEAS/metajam) package. 
 
-The lterdatasampler [website](https://lter.github.io/lterdatasampler/), made with [`pkgdown`](https://pkgdown.r-lib.org/), provides standard information about the datasets, along with vignettes, photos, "fun facts," and other information shared by LTER researchers that can help educators bring the data to life. In addition, the homepage features a ["Which dataset should I use?"](https://lter.github.io/lterdatasampler/#which-data-sample-should-i-use) table that directs visitors to data samples that are useful for teaching and practicing common methods in introductory statistics and data science classes. For example, the instructors teaching simple linear regression can quickly learn that the `pie_crabs` (fiddler crab body size), `ntl_icecover` (lake ice cover duration), and `hbr_maples` (maple tree seedling growth) datasets provide opportunities to explore linear relationships. We hope this feature makes data sample selection even quicker for teachers and learners. 
+The `lterdatasampler` [website](https://lter.github.io/lterdatasampler/), made with [`pkgdown`](https://pkgdown.r-lib.org/), provides standard information about the datasets, along with vignettes, photos, "fun facts," and other information shared by LTER researchers that can help educators bring the data to life. In addition, the homepage features a ["Which dataset should I use?"](https://lter.github.io/lterdatasampler/#which-data-sample-should-i-use) table that directs visitors to data samples that are useful for teaching and practicing common methods in introductory statistics and data science classes. For example, the instructors teaching simple linear regression can quickly learn that the `pie_crabs` (fiddler crab body size), `ntl_icecover` (lake ice cover duration), and `hbr_maples` (maple tree seedling growth) datasets provide opportunities to explore linear relationships. We hope this feature makes data sample selection even quicker for teachers and learners. 
+
+As mentioned above, we also provide the code we developed to clean and simplify the original data set into the teaching curated data sample. This code provides and all the necessary information to download the original data and metadata. This allow the users to go from the simplified version of the data used in the teaching example to the more complex one that was used for research purposes. This workflow also promotes reproducible science and data management best practices by providing metadata and direct access to a data repository hosting the data. These tools rely on [DataONE](https://www.dataone.org/)'s cyberinfrastructures and can be applied to other data repositories.
+
+To select the right teaching dataset, we are taking into account several parameters:
+- Interesting and relatable topic
+- Easy to understand data set
+- Can be simplified, while still presenting interesting patterns or relationships
+
+In terms of the package itself, or in other words the combination of the various data sets, we want to:
+- Cover a large variety of data science techniques, both in terms of data wrangling and analysis
+- Have a mix of various data type (tabular, spatial, text, ...)
+- Offer a large variety of topics that are relatable to people
+
+There is thus a lot of trials and errors before finding the right data set and although the current package has 8 data samples, there are a lot more that have already been explored. Nevertheless we are convinced that the LTER network has the data richness for this project and plan to use our connections with this community to find the best teaching data sets.
+
+
+
+
+

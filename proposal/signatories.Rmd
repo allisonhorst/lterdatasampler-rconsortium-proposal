@@ -11,7 +11,9 @@ We do not have formal signatories, but we are excited by the reaction and feedba
 - "Amazing! This will be part of my Global Change Biology course next spring!" (Caitlin Hicks Pries, Assistant Professor, Dartmouth College)
 - "What an awesome resource! Integrating into my environmental policy and natural resource management classes." (Kristin Olofsson, Oklahoma State)
 
-While we understand that these representative comments are not a substitute for official signatories, we feel that they highlight the need and support for this type of educational resource in data science education. 
+We also had the opportunity to present an earlier version of the project at the useR! 2021 conference. During our session _[Teaching R and R in Teaching](https://www.youtube.com/watch?v=vd8XZSuY_Rs&list=PL4IzsxWztPdmHhzrXDAOpq4zS_peAVty2&index=6)_, we received numerous enthusiastic feedback from the participants about the project.
+
+While we understand that this informal feedback is not a substitute for official signatories, we feel that they highlight the need and support for this type of educational resource - curated and ready to teach datasets - in data science education. 
 
 ## Project team
 <!-- 
