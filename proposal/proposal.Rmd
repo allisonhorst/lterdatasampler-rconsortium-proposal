@@ -8,6 +8,10 @@ This is where the proposal should be outlined.
 At a high-level address what your proposal is and how it will address the problem identified. Highlight any benefits to the R Community that follow from solving the problem. This should be your most compelling section.
 -->
 
+Identifying, curating, and making available appropriate datasets for use in data science education is a tedious and time consuming task for teachers. The widespread adoption of the recently published [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/) R package highlights the R community's appetite for modern, easy-to-access datasets. We are developing the [lterdatasampler](https://lter.github.io/lterdatasampler/) R package to provide additional refreshing, curated and approachable environmental data samples from the 28 sites that make up the [US Long Term Ecological Research Network](https://lternet.edu/) (LTER). Data samples are selected for their usefulness in teaching introductory statistics and data science in R. Overall, we aim to create a resource that supports teachers who want to exchange stale and/or poorly documented datasets (e.g. `cars`) with more relevant, engaging and documented options. 
+
+We recently publicized our first version of the package, which contains 8 data samples, to solicit feedback from the R community. Based on the strong engagement and positive reaction, we are inspired to move forward with our plan to grow the package to include one data sample from each of the 28 LTER network sites. We seek funding to support our continued work on the [lterdatasampler](https://lter.github.io/lterdatasampler/) R package, which we believe will be a widely valuable resource for teachers and learners who want to modernize their course materials with real-world environmental data. 
+
 ## Detail
 <!--
 Go into more detail about the specifics of the project and it delivers against the problem.
@@ -18,3 +22,8 @@ Depending on project type the detail section should include:
  - [ ] Architecture
  - [ ] Assumptions
 -->
+
+The outcome of this product will be the expanded [lterdatasampler](https://lter.github.io/lterdatasampler/) R package, which we plan to increase from the current 8 data samples to a total 28 data samples (one from each of the 28 LTER Network sites). 
+
+The package follows standard R package infrastructure (repo: https://github.com/lter/lterdatasampler) and contents are fully reproducible from raw data (hosted at the Environmental Data Initiative) through to curated samples using the [metajam](https://github.com/NCEAS/metajam) package. The lterdatasampler [website](https://lter.github.io/lterdatasampler/), made with [pkgdown](https://pkgdown.r-lib.org/), provides standard information about the datasets, and additionally features photos, "fun facts," and information from LTER researchers to help educators bring the data to life.
+
