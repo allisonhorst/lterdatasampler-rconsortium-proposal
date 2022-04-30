@@ -1,6 +1,6 @@
-proposal<-"Boilerplate ISC Proposal"
+proposal<-"Expanding the lterdatasampler package"
 proposal.file<-"isc-proposal.Rmd"
-author<-"Steph Locke"
+author<-"Allison Horst and Julien Brun"
 
 rmarkdown::render(proposal.file, output_format="html_document",
                   output_dir="out", quiet=TRUE)

@@ -10,4 +10,5 @@ It is important to cover:
  - [ ] Why it should be tackled
 -->
 
+Identifying, accessing, curating, and sharing datasets can be a huge time sink for data science educators and learners, which often (understandably) results in the overuse of stale or poorly documented datasets that lack real-world relevance (see: `iris`, `mtcars`, etc.). 
 

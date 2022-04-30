@@ -5,18 +5,42 @@ This section provides the ISC with a view of the support received from the commu
 An optional section would be for R-Core signatories where changes to R are proposed.
 -->
 
+We do not have formal signatories, but we are excited by the reaction and feedback from the R community following our "initial release" of the [lterdatasampler](https://lter.github.io/lterdatasampler/) package on Twitter. We point to engagement with, and responses to, our [twitter thread announcing the package](https://twitter.com/allison_horst/status/1513546784005521412). Selected comments include: 
+
+- "Words cannot even express how clutch this will be for teaching environmental #rstats!" (Cassie Burbisz, Associate Professor, St. Mary's College)
+- "Amazing! This will be part of my Global Change Biology course next spring!" (Caitlin Hicks Pries, Assistant Professor, Dartmouth College)
+- "What an awesome resource! Integrating into my environmental policy and natural resource management classes." (Kristin Olofsson, Oklahoma State)
+
+While we understand that these representative comments are not a substitute for official signatories, we feel that they highlight the need and support for this type of educational resource in data science education. 
+
 ## Project team
 <!-- 
 Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
 -->
+
+### Allison Horst, PhD 
+
+- Assistant Teaching Professor
+- Bren School of Environmental Science and Management
+- UC Santa Barbara
+- ahorst@ucsb.edu
+
+### Julien Brun, PhD
+
+- Senior Data Scientist
+- National Center for Ecological Analysis and Synthesis
+- brun@nceas.ucsb.edu
 
 ## Contributors
 <!-- 
 Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
 -->
 
+None
+
 ## Consulted
 <!-- 
 Who has been given the opportunity to provide feedback on the proposal? This should include any R Consortium & ISC members who the proposal has been discussed with.
 -->
 
+None
