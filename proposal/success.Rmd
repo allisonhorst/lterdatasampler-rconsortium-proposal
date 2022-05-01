@@ -58,3 +58,5 @@ Free CM, Vargas Poulsen C, Bellquist LF, Wassermann SN, Oken KL (2022) The CALFI
 Horst, AM, A Presmanes Hill, KB Gorman. Palmer Archipelago penguins data in the palmerpenguins R package: an alternative to Anderson's Irises (In Press). The R Journal. Preview: https://allisonhorst.github.io/penguins_paper_distill/rjarticle/penguins.html
 
 Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218.
+
+Julien Brun, Irene Steves and Mitchell Maier (2020). metajam: Easily Download Data and Metadata from 'DataONE'. R package version 0.2.3. https://github.com/nceas/metajam
