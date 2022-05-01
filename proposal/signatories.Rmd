@@ -22,7 +22,7 @@ Who are the people responsible for actually delivering the project if the propos
 
 - **Allison Horst**: Assistant Teaching Professor, UC Santa Barbara
 
-- **Julien Brun**: Senior Data Scientist, National Center for Ecological Analysis and Synthesis
+- **Julien Brun**: Senior Data Scientist, National Center for Ecological Analysis and Synthesis (NCEAS)
 
 ## Contributors
 <!-- 
